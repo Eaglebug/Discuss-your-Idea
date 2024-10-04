@@ -1,4 +1,4 @@
-# I-Discuss: Discuss Idea
+# I-Discuss: Discuss your Idea
 
 ## Objective:
 To build a real time chat web app. The technology required to build app is vanilla JS, Node.js and socket.io. 
